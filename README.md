@@ -7,8 +7,8 @@ pkg upgrade -y
 pkg install git
 pkg install python
 ````
-
+```
 git clone https://github.com/Grovertool/Gzz-tool
 cd Gzz-tool
-
 Python GROVER.py
+```
